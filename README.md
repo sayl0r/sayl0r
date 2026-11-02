@@ -21,7 +21,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Coding" width="300" style="border: 4px solid #FF0000; border-radius: 20px; padding: 5px; background-color: #161b22;" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Coding" width="300" style="border-radius: 15px; box-shadow: 0 0 15px #FF0000;" />
 </div>
 
 ---
