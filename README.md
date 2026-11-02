@@ -23,7 +23,7 @@
 ---
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/SS4Imajfec8AAAAC/jujutsu-kaisen-jjk.gif" alt="Sukuna Smile" width="400" />
+  <img src="https://media1.tenor.com/m/CL7dHXumGO0AAAAd/sukuna-ryomen.gif" alt="Sukuna Smile" width="400" />
 </div>
 
 ---
