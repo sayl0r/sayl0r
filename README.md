@@ -23,7 +23,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Coding" width="300" />
+  <img src="https://media1.tenor.com/m/SRJ9g1PHc6kAAAAd/sukuna-absolute-cinema.gif" alt="Sukuna Smile" width="400" />
 </div>
 
 ---
