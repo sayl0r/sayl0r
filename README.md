@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Software+Developer;Backend+%26+Frontend" 
-       alt="Typing SVG" 
-       style="filter: drop-shadow(0px 0px 2px white) drop-shadow(0px 0px 2px white) drop-shadow(0px 0px 2px white);" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Software+Developer;Backend+%26+Frontend" alt="Typing SVG" />
 </div>
 
 ---
@@ -23,7 +21,7 @@
 ---
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/CL7dHXumGO0AAAAd/sukuna-ryomen.gif" alt="Sukuna Smile" width="400" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Coding" width="300" style="border: 4px solid #FF0000; border-radius: 20px; padding: 5px; background-color: #161b22;" />
 </div>
 
 ---
