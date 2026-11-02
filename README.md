@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Software+Developer;Backend+%26+Frontend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Software+Developer;Backend+%26+Frontend" 
+       alt="Typing SVG" 
+       style="filter: drop-shadow(0px 0px 2px white) drop-shadow(0px 0px 2px white) drop-shadow(0px 0px 2px white);" />
 </div>
 
 ---
